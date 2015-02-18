@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM107: Inorganic Chemistry"
+course_description: "A study of the chemistry, properties, and reactivity of metal-containing compounds. Topics include atomic structure and electron configurations, bonding theories, ionic bonding, ionic solids and packing structures, band theory, alloys, semiconductors, and superconductors, inorganic acids and bases, and the properties and compounds of Group 1-7 elements."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Ionic Solids** <span id="4"></span> 
 *Ionic solids take on specific three-dimensional structures based on the
 size of the atoms.  In this unit, we will see the similarities and

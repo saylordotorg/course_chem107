@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM107: Inorganic Chemistry"
+course_description: "A study of the chemistry, properties, and reactivity of metal-containing compounds. Topics include atomic structure and electron configurations, bonding theories, ionic bonding, ionic solids and packing structures, band theory, alloys, semiconductors, and superconductors, inorganic acids and bases, and the properties and compounds of Group 1-7 elements."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Inorganic Chemistry** <span id="1"></span> 
 *In this unit, you will learn the different parts of a hydrogen atom
 wavefunction and discover how wavefunctions relate to atomic orbitals

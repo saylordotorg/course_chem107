@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM107: Inorganic Chemistry"
+course_description: "A study of the chemistry, properties, and reactivity of metal-containing compounds. Topics include atomic structure and electron configurations, bonding theories, ionic bonding, ionic solids and packing structures, band theory, alloys, semiconductors, and superconductors, inorganic acids and bases, and the properties and compounds of Group 1-7 elements."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "CHEM107: Inorganic Chemistry"
 --------------------------------------------------
 

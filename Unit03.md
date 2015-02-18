@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM107: Inorganic Chemistry"
+course_description: "A study of the chemistry, properties, and reactivity of metal-containing compounds. Topics include atomic structure and electron configurations, bonding theories, ionic bonding, ionic solids and packing structures, band theory, alloys, semiconductors, and superconductors, inorganic acids and bases, and the properties and compounds of Group 1-7 elements."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Bonding in Crystal Solids** <span id="3"></span> 
 *Molecules that consist of charged ions with opposite charges are called
 “ionic.” These ionic compounds are generally solids with high melting

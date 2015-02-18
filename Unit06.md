@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM107: Inorganic Chemistry"
+course_description: "A study of the chemistry, properties, and reactivity of metal-containing compounds. Topics include atomic structure and electron configurations, bonding theories, ionic bonding, ionic solids and packing structures, band theory, alloys, semiconductors, and superconductors, inorganic acids and bases, and the properties and compounds of Group 1-7 elements."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Acids and Bases** <span id="6"></span> 
 *In this unit, we will study the acids and bases of inorganic metals and
 nonmetals.  The concept of an acid as an electron acceptor and a base as

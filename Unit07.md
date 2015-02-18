@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM107: Inorganic Chemistry"
+course_description: "A study of the chemistry, properties, and reactivity of metal-containing compounds. Topics include atomic structure and electron configurations, bonding theories, ionic bonding, ionic solids and packing structures, band theory, alloys, semiconductors, and superconductors, inorganic acids and bases, and the properties and compounds of Group 1-7 elements."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Groups 1–7 of the Periodic Table** <span id="7"></span> 
 *In this unit, we will look at the properties of the elements in Groups
 1–7 of the periodic table.  We will also discuss organometallic
