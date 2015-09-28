@@ -121,3 +121,4 @@ and [CHEM102](http://www.saylor.org/courses/chem102).
 - [Unit 6](https://legacy.saylor.org/chem107/Unit06/)
 - [Unit 7](https://legacy.saylor.org/chem107/Unit07/)
 - [Unit 8](https://legacy.saylor.org/chem107/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM107/CHEM107-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM107/CHEM107-FinalExam-Answers.html)
