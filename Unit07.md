@@ -95,7 +95,7 @@ id="7.1.2"></span> 
 id="7.1.4"></span> 
 -   **Reading: Wikipedia: “Organolithium Reagent”**
     Link: Wikipedia: [“Organolithium
-    Reagent”](http://www.saylor.org/site/wp-content/uploads/2011/06/Organolithium-Reagent.pdf)
+    Reagent”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Organolithium-Reagent.pdf)
     (PDF)  
         
      Instructions: Please read this entire webpage to gain an
@@ -110,7 +110,7 @@ id="7.1.4"></span> 
 
 -   **Reading: Wikipedia: “Organosodium Chemistry”**
     Link: Wikipedia: [“Organosodium
-    Chemistry”](http://www.saylor.org/site/wp-content/uploads/2011/06/Organosodium-Chemistry.pdf)
+    Chemistry”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Organosodium-Chemistry.pdf)
     (PDF)  
         
      Instructions: Please read this entire webpage to gain an
@@ -236,7 +236,7 @@ id="7.2.3"></span> 
 **7.3.1 Oxidation States** <span id="7.3.1"></span> 
 -   **Reading: Wikipedia: “List of Oxidation States of the Elements”**
     Link: Wikipedia: [“List of Oxidation States of the
-    Elements”](http://www.saylor.org/site/wp-content/uploads/2011/06/List-of-Oxidation-States-of-the-Elements.pdf)
+    Elements”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/List-of-Oxidation-States-of-the-Elements.pdf)
     (PDF)  
         
      Instructions: Please read this entire webpage, which provides a
@@ -428,7 +428,7 @@ id="7.6.2"></span> 
 **7.7.1 Dihalides (i.e., I2, Cl2, etc.)** <span id="7.7.1"></span> 
 -   **Reading: Wikipedia: “Interhalogen”**
     Link: Wikipedia:
-    [“Interhalogen”](http://www.saylor.org/site/wp-content/uploads/2011/06/Interhalogen.pdf)
+    [“Interhalogen”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Interhalogen.pdf)
      (PDF)  
         
      Instructions: Please read this entire webpage, which provides a

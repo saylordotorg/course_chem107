@@ -93,7 +93,7 @@ Upon successful completion of this unit, students will be able to:
 **2.2 Lewis/Electron Dot Structures** <span id="2.2"></span> 
 -   **Reading: Wikibooks: “Lewis Dot Structures”**
     Link: Wikibooks: [“Lewis Dot
-    Structures”](http://www.saylor.org/site/wp-content/uploads/2011/06/Lewis-Dot-Structures.pdf)
+    Structures”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Lewis-Dot-Structures.pdf)
     (PDF)  
         
      Instructions: Please read this entire webpage for a basic
@@ -176,7 +176,7 @@ Upon successful completion of this unit, students will be able to:
 
 -   **Reading: Wikibooks: “VSEPR Theory”**
     Link: Wikibooks: [“VSEPR
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2011/06/VSEPR-Theory.pdf)
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/VSEPR-Theory.pdf)
     (PDF)  
         
      Instructions: Please read this entire webpage to learn about VSPER
@@ -284,7 +284,7 @@ Upon successful completion of this unit, students will be able to:
 
 -   **Reading: Wikibooks: “Molecular Orbital Diagram”**
     Link: Wikibooks: [“Molecular Orbital
-    Diagram”](http://www.saylor.org/site/wp-content/uploads/2011/06/MO-Diagram.pdf)
+    Diagram”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MO-Diagram.pdf)
     (PDF)  
         
      Instructions: Please read this entire webpage to learn about

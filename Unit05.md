@@ -159,7 +159,7 @@ Upon successful completion of this unit, students will be able to:
 **5.6 p-Type and n-Type** <span id="5.6"></span> 
 -   **Reading: Wikipedia: “P-Type Semiconductor”**
      Link: Wikipedia: [“P-Type
-    Semiconductor”](http://www.saylor.org/site/wp-content/uploads/2011/06/P-Type-Semiconductor.pdf)
+    Semiconductor”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/P-Type-Semiconductor.pdf)
     (PDF)  
         
      Instructions: Please read this entire webpage for information on
@@ -173,7 +173,7 @@ Upon successful completion of this unit, students will be able to:
 
 -   **Reading: Wikipedia: “N-Type Semiconductor”**
     Link: Wikipedia: [“N-Type
-    Semiconductor”](http://www.saylor.org/site/wp-content/uploads/2011/06/N-Type-Semiconductor.pdf)
+    Semiconductor”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/N-Type-Semiconductor.pdf)
     (PDF)  
         
      Instructions: Please read this entire webpage for information on
@@ -226,7 +226,7 @@ Upon successful completion of this unit, students will be able to:
 **5.7.2 High Temperature** <span id="5.7.2"></span> 
 -   **Reading: Wikipedia: “High-Temperature Superconductivity”**
     Link: Wikipedia: [“High-Temperature
-    Superconductivity”](http://www.saylor.org/site/wp-content/uploads/2011/06/High-Temperature-Superconductivity.pdf)
+    Superconductivity”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/High-Temperature-Superconductivity.pdf)
     (PDF)  
         
      Instructions: Please read this entire webpage for information on
