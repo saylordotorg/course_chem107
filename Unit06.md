@@ -80,7 +80,7 @@ between solute particles in very concentrated solutions*
     Bases”**
     Link: *The Basics of General, Organic, and Biological Chemistry*:
     [“Chapter 10, Section 2: Brønsted-Lowry Definition of Acids and
-    Bases”](https://resources.saylor.org/archived/textbooks/The%20Basics%20of%20General,%20Organic%20and%20Biological%20Chemistry.pdf)
+    Bases”](https://resources.saylor.org/wwwresources/archived/site/textbooks/The%20Basics%20of%20General,%20Organic%20and%20Biological%20Chemistry.pdf)
     (PDF)  
         
      Instructions: Read this section and then attempt the exercises at
@@ -114,7 +114,7 @@ between solute particles in very concentrated solutions*
     “Chapter 10, Section 1: Arrhenius Definition of Acids and Bases”**
     Link: *The Basics of General, Organic, and Biological Chemistry*:
     [“Chapter 10, Section 1: Arrhenius Definition of Acids and
-    Bases”](https://resources.saylor.org/archived/textbooks/The%20Basics%20of%20General,%20Organic%20and%20Biological%20Chemistry.pdf)
+    Bases”](https://resources.saylor.org/wwwresources/archived/site/textbooks/The%20Basics%20of%20General,%20Organic%20and%20Biological%20Chemistry.pdf)
     (PDF)  
         
      Instructions: Read this section and then attempt the exercises at
@@ -181,7 +181,7 @@ between solute particles in very concentrated solutions*
 **6.6.2 Oxoacids** <span id="6.6.2"></span> 
 -   **Reading: Wikipedia: “Oxoacid”**
     Link: Wikipedia:
-    [“Oxoacid”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Oxoacid.pdf)
+    [“Oxoacid”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Oxoacid.pdf)
     (PDF)  
         
      Instructions: Please read this entire webpage to gain an
