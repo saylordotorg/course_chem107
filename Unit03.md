@@ -84,7 +84,7 @@ id="3.2"></span> 
 id="3.3"></span> 
 -   **Reading: Wikipedia: “Ionic Radius”**
     Link: Wikipedia: [“Ionic
-    Radius”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Ionic-Radius.pdf)
+    Radius”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Ionic-Radius.pdf)
     (PDF)  
         
      Instructions: Please read this entire webpage to gain an

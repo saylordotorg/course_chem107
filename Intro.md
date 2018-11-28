@@ -95,7 +95,7 @@ computer.
  √    Have competency in the English language.  
   
  √    Have read the [Saylor Student
-Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)  
+Handbook.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)  
   
  √    Have completed [CHEM101](http://www.saylor.org/courses/chem101)
 and [CHEM102](http://www.saylor.org/courses/chem102).
@@ -111,7 +111,7 @@ and [CHEM102](http://www.saylor.org/courses/chem102).
     as you progress through each resource box below.  
 
     Reading: [*The Basics of General, Organic, and Biological
-    Chemistry*](https://resources.saylor.org/archived/textbooks/The%20Basics%20of%20General,%20Organic%20and%20Biological%20Chemistry.pdf) (PDF)  
+    Chemistry*](https://resources.saylor.org/wwwresources/archived/site/textbooks/The%20Basics%20of%20General,%20Organic%20and%20Biological%20Chemistry.pdf) (PDF)  
       
      Terms of Use: This text was adapted by The Saylor Foundation under
     a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0
